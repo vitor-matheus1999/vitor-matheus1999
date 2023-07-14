@@ -7,9 +7,9 @@
 ----------------------------
 <div>
   <a href="https://github.com/vitor-matheus1999"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vitor-matheus1999&show_icons=true&rank_icon=github&theme=chartreuse-dark"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-matheus1999&layout=donut&theme=chartreuse-dark"/>
-</div>
+  <img width="400"  src="https://github-readme-stats.vercel.app/api?username=vitor-matheus1999&show_icons=true&rank_icon=github&theme=chartreuse-dark"/>
+  <img width="400"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-matheus1999&layout=donut&theme=chartreuse-dark"/>
+</div><br><br>
 
 <div style=""display:inline_block><br><br>
   <img width="70" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
