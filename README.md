@@ -8,7 +8,7 @@
 <div>
   <a href="https://github.com/vitor-matheus1999"/>
   <img src="https://github-readme-stats.vercel.app/api?username=vitor-matheus1999&show_icons=true&rank_icon=github&theme=chartreuse-dark"/>
-  <img align="right" height="200em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-matheus1999&layout=donut&theme=chartreuse-dark"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-matheus1999&layout=donut&theme=chartreuse-dark"/>
 </div>
 
 <div style=""display:inline_block><br><br>
