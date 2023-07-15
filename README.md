@@ -30,6 +30,6 @@
 ## Contato
 
 <div>
-   <a href="mailto:vitormatheusob@gmail.com"><img width="150" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <a/>
+   <a href="mailto:vitormatheusob@gmail.com?subject=[GitHub]%20Source%20Han%20Sans"><img width="150" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <a/>
    <a href="https://www.linkedin.com/in/vitor-matheus-oliveira-borges-0339a020b/"> <img width="195" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <a/>  
 </div>
