@@ -2,7 +2,7 @@
 
 - 🔎 *Buscando* -  Aprimorar meus conhecimentos cada vez mais.
 - 🌱 *Conhecimentos* - Atualmente estou estudando .Net-Framework e React.js.
-- 🤔 *O que estou buscando aprender* - Buscando aprofundar meu conhecimento em Front-end (Mas trabalhando muito com back-end utilizando C# na faculdade também);
+- 🤔 *O que estou buscando aprender* - Buscando aprofundar meus conhecimentos com C# utilizando o .Net Framework e .Net Core;
 - 😄 Pronomes: Qualquer um;
 ----------------------------
 <div>
